@@ -1,2 +1,1 @@
-No code No pain
-experiment with amend
+This materials from Hexlet GIT cource.
